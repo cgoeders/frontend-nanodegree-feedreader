@@ -1,0 +1,13 @@
+Resources used for Udacity FEND, Project 6 (Feed Reader Testing)
+
+
+Udacity Resources: 
+--Course: JavaScript Testing
+--Notes from Office Hours (via GitHub)
+--Discussion forums
+
+Other Resources:
+--Jasmine documentation (http://jasmine.github.io/2.0/introduction.html)
+--W3Schools
+--MDN
+--jQuery documentation (https://api.jquery.com/)

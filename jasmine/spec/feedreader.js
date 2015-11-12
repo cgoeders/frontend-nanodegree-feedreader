@@ -91,13 +91,13 @@ $(function() {
 
             //load first feed at index 0
             loadFeed(0, function() {
-                //set `firstFeed` equal to header title and feed's html
-                firstFeed = $('.header-title').text() + $('.feed').html();
+                //set `firstFeed` equal to feed's html
+                firstFeed = $('.feed').html();
 
                 //load next feed at index 1
                 loadFeed(1, function() {
-                    //set `nextFeed` equal to header title and feed's html
-                    nextFeed = $('.header-title').text() + $('.feed').html();
+                    //set `nextFeed` equal to feed's html
+                    nextFeed = $('.feed').html();
                     done();
                 });
             });
